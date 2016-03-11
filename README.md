@@ -6,6 +6,14 @@ Code Guide is a project for documenting standards for developing flexible, durab
 
 ---
 
+### Install
+0. In your console, run the command `gem install jekyll rb-pygments` (this installs the server software)
+
+### Running
+0. In your console, navigate to the folder this site is in.
+1. Run the command `jekyll serve`
+2. Once the server is running, go to [localhost:4000](http://localhost:4000)
+
 ### License
 
 Released under MIT by, and copyright 2014, @mdo.
